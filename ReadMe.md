@@ -1,5 +1,9 @@
 🏡 Subdivision Visitor Management System (GateKeeper-QR)
+
+
 A modern, secure, and efficient digital solution designed to streamline and monitor visitor entry within residential subdivisions. By replacing outdated manual logbooks with QR-code-based identification, this application ensures faster gate check-ins, reduces traffic congestion, and enhances overall community safety.
+
+
 
 🌟 Key Features
 🎫 QR-Code Visitor Passes: Generates unique, time-bound QR codes for guests, delivery riders, and contractors for seamless scanning at the guardhouse.
